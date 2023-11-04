@@ -1,0 +1,3 @@
+Model,Weights Path,masterCategory Accuracy %,subCategory Accuracy %,Trainable params,Timestamp
+Condition,./weights/Condition_best_weights_train.h5,0.7426066994667053,0.0167405996471643,148541461,2023-10-30 19:36:34
+Condition,./weights/Condition_50_epochs_2023-10-30.h5,0.9120722413063048,0.6461237668991089,148541461,2023-10-30 21:09:58
